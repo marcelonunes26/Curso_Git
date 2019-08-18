@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\ExContaBanco\ExContaBanco\bin\Debug\netcoreapp2.2\ExContaBanco.deps.json
+C:\Users\Usuario\source\repos\ExContaBanco\ExContaBanco\bin\Debug\netcoreapp2.2\ExContaBanco.runtimeconfig.json
+C:\Users\Usuario\source\repos\ExContaBanco\ExContaBanco\bin\Debug\netcoreapp2.2\ExContaBanco.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\ExContaBanco\ExContaBanco\bin\Debug\netcoreapp2.2\ExContaBanco.dll
+C:\Users\Usuario\source\repos\ExContaBanco\ExContaBanco\bin\Debug\netcoreapp2.2\ExContaBanco.pdb
+C:\Users\Usuario\source\repos\ExContaBanco\ExContaBanco\obj\Debug\netcoreapp2.2\ExContaBanco.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ExContaBanco\ExContaBanco\obj\Debug\netcoreapp2.2\ExContaBanco.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ExContaBanco\ExContaBanco\obj\Debug\netcoreapp2.2\ExContaBanco.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ExContaBanco\ExContaBanco\obj\Debug\netcoreapp2.2\ExContaBanco.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ExContaBanco\ExContaBanco\obj\Debug\netcoreapp2.2\ExContaBanco.dll
+C:\Users\Usuario\source\repos\ExContaBanco\ExContaBanco\obj\Debug\netcoreapp2.2\ExContaBanco.pdb
