@@ -46,7 +46,8 @@ namespace ExContaBanco
             conta.Saque(quantia);
             Console.WriteLine("Dados da conta atualizados!");
             Console.WriteLine(conta);
-
+            Console.WriteLine();
+            Console.WriteLine("Acesso encerrado!");
         }
     }
 }
